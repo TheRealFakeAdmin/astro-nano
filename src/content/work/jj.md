@@ -2,7 +2,7 @@
 company: "Jimmy John's"
 role: "Inshop Crew Member"
 dateStart: "08/12/2024"
-dateEnd: "Current"
+dateEnd: "02/20/2025"
 ---
 
 As an **Inshop Crew Member** at Jimmy John’s, I manage a variety of tasks to ensure smooth and efficient daily operations while delivering excellent customer service in a fast-paced environment.  
